@@ -1,0 +1,62 @@
+﻿@model IEnumerable<T3_Grupo1.Models.Libro>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container pt-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Lista de Libros</h2>
+        </div>
+        <div class="col-6">
+            <a asp-controller="Libro" asp-action="Crear" class="btn btn-primary">Nuevo Libro</a>
+        </div>
+    </div>
+    <br />
+
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Titulo</th>
+                    <th>Autor</th>
+                    <th>Tema</th>
+                    <th>Editorial</th>
+                    <th>AnioPublicacion</th>
+                    <th>Paginas</th>
+                    <th>Categoria</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th width="80%">@item.Titulo</th>
+                        <th width="70%">@item.Autor</th>
+                        <th width="60%">@item.Tema</th>
+                        <th width="50%">@item.Editorial</th>
+                        <th width="40%">@item.AnioPublicacion</th>
+                        <th width="30%">@item.Paginas</th>
+                        <th width="20%">@item.Categoria</th>
+                        <th>
+                            <div class="m-75 btn-group" role="group">
+                                <a asp-controller="Libro" asp-action="Editar" asp-route-Id="@item.Id" class="btn btn-primary mx-2">Editar</a>
+                                <a asp-controller="Libro" asp-action="Eliminar" asp-route-Id="@item.Id" class="btn btn-danger mx-2">Eliminar</a>
+                            </div>
+                        </th>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No hay registros de Libros</p>
+    }
+
+</div>
+

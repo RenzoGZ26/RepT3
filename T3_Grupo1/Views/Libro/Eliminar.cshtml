@@ -1,0 +1,84 @@
+﻿@model T3_Grupo1.Models.Libro
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Eliminar</h1>
+
+<form method="post" asp-action="Eliminar">
+    <input asp-fer="Id" hidden />
+    <div class="border p-3">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group row">
+            <h2 class="text-info pl-3">¿Està seguro de Eliminar este Libro?</h2>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Titulo" class="form-label">Titulo</label>
+                    <input asp-for="Titulo" disabled class="form-control" />
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Autor" class="form-label">Autor</label>
+                    <input asp-for="Autor" disabled class="form-control" />
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Tema" class="form-label">Tema</label>
+                    <input asp-for="Tema" disabled class="form-control" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Editorial" class="form-label">Editorial</label>
+                    <input asp-for="Editorial" disabled class="form-control" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="AnioPublicacion" class="form-label">Año de Publicacion</label>
+                    <input asp-for="AnioPublicacion" disabled class="form-control" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Paginas" class="form-label">Paginas</label>
+                    <input asp-for="Paginas" disabled class="form-control" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Categoria" class="form-label">Categoria</label>
+                    <input asp-for="Categoria" disabled class="form-control" />
+                </div>
+            </div>
+
+            <div class="d-grid gap-2 d-md-block">
+
+                <button type="submit" class="btn btn-primary">Eliminar</button>
+                <a asp-controller="Libro" asp-action="Index" class="btn btn-success">Regresar</a>
+            </div>
+
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+}

@@ -1,0 +1,178 @@
+﻿/* Estilos generales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+    background-color: #ecf0f1;
+}
+
+/* Header */
+.header {
+    background-color: #3498db;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+    .header h1 {
+        font-size: 2em;
+        margin: 0;
+    }
+
+    .header p {
+        font-size: 1.1em;
+    }
+
+/* Contenedor principal */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Sección de Introducción */
+.intro {
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .intro h2 {
+        color: #2980b9;
+    }
+
+/* Video Section */
+.video-section {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.video-container {
+    margin: 20px 0;
+}
+
+.video-description {
+    color: #555;
+    font-style: italic;
+}
+
+/* Sección de Libros */
+.book-section {
+    margin-top: 30px;
+}
+
+    .book-section h2 {
+        text-align: center;
+        color: #2980b9;
+    }
+
+.books {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.book-card {
+    background-color: #ffffff;
+    width: 280px;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.book-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.book-info h3 {
+    color: #2980b9;
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+/* Testimonios */
+.testimonials {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+}
+
+    .testimonials h2 {
+        color: #2980b9;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.testimonial {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .testimonial p {
+        font-style: italic;
+        color: #555;
+    }
+
+/* Herramientas */
+.tools {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .tools h2 {
+        color: #2980b9;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .tools ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .tools li {
+        margin-bottom: 10px;
+    }
+
+/* Galería de Imágenes */
+.gallery-section {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.gallery img {
+    width: 200px;
+    height: 250px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .gallery img:hover {
+        transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+
+nav ul {
+    display: flex;
+    list-style: none;
+    background-color: #90c3d1;
+    padding: 10px;
+    justify-content: center;
+}

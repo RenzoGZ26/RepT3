@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styleArquitectura.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Barra de Navegación -->
+    <nav>
+        <ul>
+            <li><a href="#intro">Inicio</a></li>
+            <li><a href="#que-es">¿Qué es?</a></li>
+            <li><a href="#libros">Libros</a></li>
+            <li><a href="#galeria">Galería</a></li>
+            <li><a href="#recursos">Recursos</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <h1 id="intro">Diseño de Software</h1>
+        </br>
+        <h2 id="que-es">¿Qué es?</h2>
+        <div class="centered-text">
+            <p>
+                El diseño de software es el proceso de planificar y estructurar los elementos de un sistema de software.
+                Su objetivo es mejorar la calidad, eficiencia y mantenimiento del sistema a lo largo del tiempo.
+                Este proceso es crucial para gestionar la complejidad de los sistemas modernos y asegurar una arquitectura sólida.
+            </p>
+        </div>
+
+        <!-- Espacio para el video -->
+        <div class="video-container">
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/PKyTFZtRztk" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <!-- Sección de libros -->
+        <h2 id="libros">Libros de Diseño de Software</h2>
+        <div class="book-section">
+            <!-- Libro 1 -->
+            <div class="book">
+                <img src="~/images/SoftwareArchitectureinPractice.jpeg" alt="Portada de Software Architecture in Practice" class="img-thumbnail">
+                <div class="book-info">
+                    <p class="book-title">*Software Architecture in Practice*</p>
+                    <p class="book-author">Autor: Len Bass, Paul Clements, Rick Kazman</p>
+                    <p class="book-genre">Género: Informática, Ingeniería de Software</p>
+                    <p class="book-synopsis">Explora los principios fundamentales de la arquitectura de software, cubriendo patrones aplicados en la práctica.</p>
+                </div>
+            </div>
+
+            <!-- Libro 2 -->
+            <div class="book">
+                <img src="~/images/fundamentals-of-software-architecture.jpg" alt="Portada de Fundamentals of Software Architecture">
+                <div class="book-info">
+                    <p class="book-title">*Fundamentals of Software Architecture*</p>
+                    <p class="book-author">Autor: Mark Richards, Neal Ford</p>
+                    <p class="book-genre">Género: Ingeniería de Software</p>
+                    <p class="book-synopsis">Principios prácticos que abarcan múltiples estilos arquitectónicos para aplicarse en entornos reales.</p>
+                </div>
+            </div>
+
+            <!-- Libro 3 -->
+            <div class="book">
+                <img src="~/images/DesigningSoftwareArquitectures.jpg" alt="Portada de Designing Software Architectures">
+                <div class="book-info">
+                    <p class="book-title">*Designing Software Architectures*</p>
+                    <p class="book-author">Autor: Humberto Cervantes, Rick Kazman</p>
+                    <p class="book-genre">Género: Diseño de Software</p>
+                    <p class="book-synopsis">Metodología paso a paso para diseñar arquitecturas de software, con estrategias de diseño y casos de estudio.</p>
+                </div>
+            </div>
+            </br>
+        </div>
+
+        <!-- Galería de imágenes -->
+        <h2 id="galeria">Portadas de Libros de Diseño de Software</h2>
+        <div class="gallery">
+            <img src="~/images/SoftwareArchitectureinPractice.jpeg" alt="Software Architecture in Practice">
+            <img src="~/images/fundamentals-of-software-architecture.jpg" alt="Fundamentals of Software Architecture">
+            <img src="~/images/DesigningSoftwareArquitectures.jpg" alt="Designing Software Architectures">
+        </div>
+        </br>
+        <!-- Sección de Recursos -->
+        <h2 id="recursos">Recursos Adicionales</h2>
+        <ul class="resources-list">
+            <li><a href="https://www.martinfowler.com/" target="_blank">Artículo de Martin Fowler sobre diseño de software</a></li>
+            <li><a href="https://es.scribd.com/document/498199359/software-architecture-patterns-en-es" target="_blank">Software Architecture Patterns (O'Reilly)</a></li>
+            <li><a href="https://domaindrivendesign.org/" target="_blank">Página oficial de Domain-Driven Design</a></li>
+        </ul>
+        </br>
+        </br>
+        
+    </div>
+</body>
+</html>
