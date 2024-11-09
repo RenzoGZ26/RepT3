@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\T3_Grupo1.csproj": {}
+    "C:\\Users\\Fernando Celestino\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\T3_Grupo1.csproj": {
+    "C:\\Users\\Fernando Celestino\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\T3_Grupo1.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando Celestino\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
         "projectName": "T3_Grupo1",
-        "projectPath": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\T3_Grupo1.csproj",
-        "packagesPath": "C:\\Users\\SPM EASY GAME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\obj\\",
+        "projectPath": "C:\\Users\\Fernando Celestino\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+        "packagesPath": "C:\\Users\\Fernando Celestino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fernando Celestino\\Downloads\\RepT3\\T3_Grupo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SPM EASY GAME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Celestino\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
