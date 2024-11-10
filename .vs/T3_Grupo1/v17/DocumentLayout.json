@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\",
+  "WorkspaceRootPath": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\mariana\\downloads\\tilin\\rept3\\t3_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\vjsl\\das_t3\\rept3\\t3_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\mariana\\downloads\\tilin\\rept3\\t3_grupo1\\views\\home\\disenodesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\vjsl\\das_t3\\rept3\\t3_grupo1\\views\\home\\disenodesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\home\\disenodesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\mariana\\downloads\\tilin\\rept3\\t3_grupo1\\wwwroot\\css\\stylediseno.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\vjsl\\das_t3\\rept3\\t3_grupo1\\wwwroot\\css\\stylediseno.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\wwwroot\\css\\stylediseno.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,25 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\appsettings.json",
               "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\appsettings.json",
-              "RelativeToolTip": "T3_Grupo1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ToolTip": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\appsettings.json*",
+              "RelativeToolTip": "T3_Grupo1\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-10T00:37:55.969Z",
               "EditorCaption": ""
@@ -49,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "styleDiseno.css",
-              "DocumentMoniker": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "DocumentMoniker": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
               "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "ToolTip": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "ToolTip": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
               "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
               "ViewState": "AgIAAI8AAAAAAAAAAAAcwKsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -61,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DisenodeSoftware.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "DocumentMoniker": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
               "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
-              "ToolTip": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "ToolTip": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
               "RelativeToolTip": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

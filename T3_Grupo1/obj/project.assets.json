@@ -11083,24 +11083,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariana\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\VJSL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+      "projectUniqueName": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
       "projectName": "T3_Grupo1",
-      "projectPath": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
-      "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\obj\\",
+      "projectPath": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+      "packagesPath": "C:\\Users\\VJSL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VJSL\\DAS_T3\\RepT3\\T3_Grupo1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\VJSL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11178,7 +11173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
