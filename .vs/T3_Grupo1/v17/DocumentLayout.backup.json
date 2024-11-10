@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\",
+  "WorkspaceRootPath": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\downloads\\pregunta2_grupo1_das\\t3\\t3_grupo1\\t3_grupo1\\views\\home\\disenodesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\georg\\documents\\dise\u00F1o y arquitectura\\t3 d\\t3_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\Migrations\\20241110010541_sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:T3_Grupo1\\Migrations\\20241110010541_sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\georg\\documents\\dise\u00F1o y arquitectura\\t3 d\\t3_grupo1\\views\\home\\disenodesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\home\\disenodesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\downloads\\pregunta2_grupo1_das\\t3\\t3_grupo1\\t3_grupo1\\wwwroot\\css\\stylediseno.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\georg\\documents\\dise\u00F1o y arquitectura\\t3 d\\t3_grupo1\\wwwroot\\css\\stylediseno.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\wwwroot\\css\\stylediseno.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +38,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "styleDiseno.css",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAcwKsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-08T07:25:20.833Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\appsettings.json",
+              "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\appsettings.json",
+              "RelativeToolTip": "T3_Grupo1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T01:05:45.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "20241110010541_sa.cs",
+              "DocumentMoniker": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\Migrations\\20241110010541_sa.cs",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Migrations\\20241110010541_sa.cs",
+              "ToolTip": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\Migrations\\20241110010541_sa.cs",
+              "RelativeToolTip": "T3_Grupo1\\Migrations\\20241110010541_sa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:05:41.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styleDiseno.css",
+              "DocumentMoniker": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "ToolTip": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAcwKsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T07:25:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DisenodeSoftware.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "DocumentMoniker": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
               "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\Downloads\\Pregunta2_GRUPO1_DAS\\T3\\T3_Grupo1\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml*",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml*",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Georg\\Documents\\DISE\u00D1O Y ARQUITECTURA\\T3 D\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-08T07:25:04.862Z",
               "EditorCaption": ""

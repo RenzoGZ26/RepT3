@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T3_Grupo1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea8e3cd4611143572dfd0f321beab2237019688")]
 [assembly: System.Reflection.AssemblyProductAttribute("T3_Grupo1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T3_Grupo1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

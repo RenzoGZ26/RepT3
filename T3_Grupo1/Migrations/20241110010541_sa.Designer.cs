@@ -12,8 +12,8 @@ using T3_Grupo1.Datos;
 namespace T3_Grupo1.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241108060800_Test1")]
-    partial class Test1
+    [Migration("20241110010541_sa")]
+    partial class sa
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
