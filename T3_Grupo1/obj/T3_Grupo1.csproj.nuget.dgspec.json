@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {}
+    "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {
+    "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+        "projectUniqueName": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
         "projectName": "T3_Grupo1",
-        "projectPath": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
-        "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mariana\\Downloads\\TILIN\\RepT3\\T3_Grupo1\\obj\\",
+        "projectPath": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+        "packagesPath": "C:\\Users\\SPM EASY GAME\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SPM EASY GAME\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,64 +35,22 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.35, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[6.0.35, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.35, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[6.0.35, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.35, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.18, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
