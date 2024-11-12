@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {}
+    "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {
+    "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+        "projectUniqueName": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
         "projectName": "T3_Grupo1",
-        "projectPath": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\obj\\",
+        "projectPath": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+        "packagesPath": "C:\\Users\\SPM EASY GAME\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SPM EASY GAME\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,13 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-<<<<<<< HEAD
             "CsvHelper": {
               "target": "Package",
               "version": "[29.0.0, )"
             },
-=======
->>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.35, )"
@@ -75,13 +72,10 @@
               "target": "Package",
               "version": "[6.0.35, )"
             },
-<<<<<<< HEAD
             "Microsoft.ML": {
               "target": "Package",
               "version": "[3.0.1, )"
             },
-=======
->>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.18, )"

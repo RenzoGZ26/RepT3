@@ -4,16 +4,28 @@
   "WorkspaceRootPath": "C:\\Users\\SPM EASY GAME\\RepT3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\libro\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\libro\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\datos\\bookdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\datos\\bookdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\models\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\models\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\datos\\bookdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\datos\\bookdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,10 +38,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\books\\recommendbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\books\\recommendbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\books_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -46,10 +54,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|solutionrelative:t3_grupo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{068CB4D0-0674-4BB0-98A1-9EA277931F1F}|T3_Grupo1\\T3_Grupo1.csproj|c:\\users\\spm easy game\\rept3\\t3_grupo1\\views\\home\\arquitecturadesoftware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -161,7 +165,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -172,35 +176,39 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-<<<<<<< HEAD
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookData.cs",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\BookData.cs",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Models\\BookData.cs",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\BookData.cs",
-              "RelativeToolTip": "T3_Grupo1\\Models\\BookData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T22:10:51.709Z",
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Libro\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Eliminar.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Libro\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T22:42:16.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "T3_Grupo1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T21:24:59.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RecommendBooks.cshtml",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Books\\RecommendBooks.cshtml",
               "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Books\\RecommendBooks.cshtml",
@@ -213,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "RecommendationEngine.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\RecommendationEngine.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Models\\RecommendationEngine.cs",
@@ -226,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "books_data.csv",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\books_data.csv",
               "RelativeDocumentMoniker": "T3_Grupo1\\books_data.csv",
@@ -239,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\Book.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Models\\Book.cs",
@@ -252,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Program.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Program.cs",
@@ -265,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Controllers\\BooksController.cs",
@@ -278,20 +286,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BookDataLoader.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Datos\\BookDataLoader.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Datos\\BookDataLoader.cs",
               "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Datos\\BookDataLoader.cs",
               "RelativeToolTip": "T3_Grupo1\\Datos\\BookDataLoader.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:54:35.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Datos\\ApplicationDbContext.cs",
@@ -304,7 +312,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:40:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookData.cs",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\BookData.cs",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Models\\BookData.cs",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\BookData.cs",
+              "RelativeToolTip": "T3_Grupo1\\Models\\BookData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:10:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Models\\Libro.cs",
@@ -313,299 +347,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:59:06.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:40:30.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ArquitecturadeSoftware.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:39:04.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "T3_Grupo1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:38:29.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:36.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DisenodeSoftware.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T07:25:04.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Editar.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Libro\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Editar.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Libro\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T21:02:37.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Crear.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Libro\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Crear.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Libro\\Crear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:59:20.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:40:31.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:40:34.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "styleArquitectura.css",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
-              "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
-              "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
-              "ViewState": "AgIAACsAAAAAAAAAAADwv6MAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-12T20:39:34.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "T3_Grupo1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "T3_Grupo1\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-12T20:37:55.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.json",
-              "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.json",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.json",
-              "RelativeToolTip": "T3_Grupo1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-10T00:37:55.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:44.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:28.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "styleDiseno.css",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
-              "ViewState": "AgIAAJAAAAAAAAAAAADwv7EAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-08T07:25:20.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:27.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ResetPasswordConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:26.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "RegisterConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:24.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ResendEmailConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:23.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:22.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:38:19.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.Development.json",
-              "RelativeToolTip": "T3_Grupo1\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T20:37:47.996Z",
 =======
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "T3_Grupo1\\Models\\Libro.cs",
@@ -619,11 +361,149 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 13,
+              "Title": "ArquitecturadeSoftware.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Home\\ArquitecturadeSoftware.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:39:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "T3_Grupo1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:38:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DisenodeSoftware.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:25:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Editar.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Libro\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Editar.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Libro\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T21:02:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Crear.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Libro\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Libro\\Crear.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Libro\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:59:20.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:40:31.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:40:34.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "styleArquitectura.css",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
+              "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
+              "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleArquitectura.css",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv6MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T20:39:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "T3_Grupo1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "T3_Grupo1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-12T20:37:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.json",
+              "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.json",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.json",
+=======
               "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\appsettings.json",
               "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.json",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\appsettings.json",
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
               "RelativeToolTip": "T3_Grupo1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -632,6 +512,28 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
               "DocumentIndex": 3,
               "Title": "styleDiseno.css",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
@@ -651,8 +553,114 @@
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
               "RelativeToolTip": "T3_Grupo1\\Views\\Home\\DisenodeSoftware.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T07:25:04.862Z"
+              "WhenOpened": "2024-11-12T20:38:28.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "styleDiseno.css",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "RelativeDocumentMoniker": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "RelativeToolTip": "T3_Grupo1\\wwwroot\\css\\styleDiseno.css",
+              "ViewState": "AgIAAJAAAAAAAAAAAADwv7EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T07:25:20.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:27.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:26.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "T3_Grupo1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:38:19.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "T3_Grupo1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\appsettings.Development.json",
+              "RelativeToolTip": "T3_Grupo1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T20:37:47.996Z",
+              "EditorCaption": ""
             }
           ]
         }
