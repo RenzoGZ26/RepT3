@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "RecommendBooks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Libros recomendados para: @ViewBag.BookTitle</h2>
+
+@if (ViewBag.RecommendedBooks != null && ViewBag.RecommendedBooks.Count > 0)
+{
+    <ul>
+        @foreach (var book in ViewBag.RecommendedBooks)
+        {
+            <li>@book</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No se encontraron recomendaciones.</p>
+}

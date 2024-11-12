@@ -8,6 +8,7 @@ namespace T3_Grupo1.Controllers
     [Authorize]
     public class LibroController : Controller
     {
+
         private readonly ApplicationDbContext _db;
 
         public LibroController(ApplicationDbContext db)

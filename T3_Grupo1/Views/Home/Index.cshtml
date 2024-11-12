@@ -7,6 +7,12 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
+<form asp-controller="Books" asp-action="RecommendBooks" method="get">
+    <label for="bookTitle">Ingresa el título del libro:</label>
+    <input type="text" id="bookTitle" name="bookTitle" />
+    <button type="submit">Obtener Recomendaciones</button>
+</form>
+
 
 
 
