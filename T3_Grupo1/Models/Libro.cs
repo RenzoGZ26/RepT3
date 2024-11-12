@@ -7,7 +7,7 @@ namespace T3_Grupo1.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required(ErrorMessage = "El Titulo de libro es obligatoria")]
+        [Required(ErrorMessage = "El Titulo de Libro es obligatorio")]
         public string Titulo { get; set; }
         [Required(ErrorMessage = "El Autor es obligatorio")]
         public string Autor { get; set; }
@@ -26,7 +26,7 @@ namespace T3_Grupo1.Models
         [Range(10, 1000, ErrorMessage = "Las paginas deben estar en el rango 10 a 1000")]
         public int Paginas { get; set; }
 
-        [Required(ErrorMessage = "La Categoria es obligatorio")]
+        [Required(ErrorMessage = "La Categoria es obligatoria")]
         public string Categoria { get; set; }
 
     }
