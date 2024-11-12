@@ -3,7 +3,10 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)system.text.json\6.0.10\buildTransitive\netcoreapp3.1\System.Text.Json.targets" Condition="Exists('$(NuGetPackageRoot)system.text.json\6.0.10\buildTransitive\netcoreapp3.1\System.Text.Json.targets')" />
     <Import Project="$(NuGetPackageRoot)sqlitepclraw.lib.e_sqlite3\2.1.2\buildTransitive\net6.0\SQLitePCLRaw.lib.e_sqlite3.targets" Condition="Exists('$(NuGetPackageRoot)sqlitepclraw.lib.e_sqlite3\2.1.2\buildTransitive\net6.0\SQLitePCLRaw.lib.e_sqlite3.targets')" />
+<<<<<<< HEAD
     <Import Project="$(NuGetPackageRoot)microsoft.ml\3.0.1\build\netstandard2.0\Microsoft.ML.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.ml\3.0.1\build\netstandard2.0\Microsoft.ML.targets')" />
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui\6.0.35\buildTransitive\Microsoft.AspNetCore.Identity.UI.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui\6.0.35\buildTransitive\Microsoft.AspNetCore.Identity.UI.targets')" />
   </ImportGroup>

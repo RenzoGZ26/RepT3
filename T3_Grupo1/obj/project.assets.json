@@ -2,6 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
+<<<<<<< HEAD
       "CsvHelper/29.0.0": {
         "type": "package",
         "compile": {
@@ -15,6 +16,8 @@
           }
         }
       },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -1810,6 +1813,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.ML/3.0.1": {
         "type": "package",
         "dependencies": {
@@ -1977,6 +1981,8 @@
           }
         }
       },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "Microsoft.NETCore.Platforms/3.1.0": {
         "type": "package",
         "compile": {
@@ -2703,6 +2709,7 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+<<<<<<< HEAD
       "System.CodeDom/4.5.0": {
         "type": "package",
         "compile": {
@@ -2714,6 +2721,8 @@
           "lib/netstandard2.0/System.CodeDom.dll": {}
         }
       },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "System.Collections/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -3249,7 +3258,11 @@
           "lib/netstandard1.6/System.Linq.Expressions.dll": {}
         }
       },
+<<<<<<< HEAD
       "System.Memory/4.5.5": {
+=======
+      "System.Memory/4.5.4": {
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
         "type": "package",
         "compile": {
           "ref/netcoreapp2.1/_._": {}
@@ -3334,6 +3347,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "System.Numerics.Tensors/8.0.0": {
         "type": "package",
         "compile": {
@@ -3350,6 +3364,8 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4059,6 +4075,7 @@
           "lib/netstandard1.3/System.Threading.dll": {}
         }
       },
+<<<<<<< HEAD
       "System.Threading.Channels/4.7.1": {
         "type": "package",
         "compile": {
@@ -4072,6 +4089,8 @@
           }
         }
       },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "System.Threading.Tasks/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4185,6 +4204,7 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "CsvHelper/29.0.0": {
       "sha512": "xFuirk+7GbrGPM5u6shRDmFLHnPFTODEydI+Ed0mD1tJwpJeBPH6j668JhoAJglYt+EfhR/hQNGHPQ+RKjU6uA==",
       "type": "package",
@@ -4209,6 +4229,8 @@
         "lib/netstandard2.1/CsvHelper.xml"
       ]
     },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
     "Humanizer/2.14.1": {
       "sha512": "/FUTD3cEceAAmJSCPN9+J+VhGwmL/C12jvwlyM1DFXShEMsBzvLzLqSrJ2rb+k/W2znKw7JyflZgZpyE+tI7lA==",
       "type": "package",
@@ -6468,6 +6490,7 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.ML/3.0.1": {
       "sha512": "AE4DFwsDNVM5+2RVH3X9mRsqPSs+DrEd7TVA5TyLxPEerQC8wl5YTVQOVMsWCp2AroWGXEIny8xyXdOXfC+9BA==",
       "type": "package",
@@ -6554,6 +6577,8 @@
         "mlnetlogo.png"
       ]
     },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
     "Microsoft.NETCore.Platforms/3.1.0": {
       "sha512": "z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
       "type": "package",
@@ -7727,6 +7752,7 @@
         "version.txt"
       ]
     },
+<<<<<<< HEAD
     "System.CodeDom/4.5.0": {
       "sha512": "gqpR1EeXOuzNQWL7rOzmtdIz3CaXVjSQCiaGOs2ivjPwynKSJYm39X81fdlp7WuojZs/Z5t1k5ni7HtKQurhjw==",
       "type": "package",
@@ -7748,6 +7774,8 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
     "System.Collections/4.3.0": {
       "sha512": "3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
       "type": "package",
@@ -8972,10 +9000,17 @@
         "system.linq.expressions.nuspec"
       ]
     },
+<<<<<<< HEAD
     "System.Memory/4.5.5": {
       "sha512": "XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
       "type": "package",
       "path": "system.memory/4.5.5",
+=======
+    "System.Memory/4.5.4": {
+      "sha512": "1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "type": "package",
+      "path": "system.memory/4.5.4",
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8989,7 +9024,11 @@
         "lib/netstandard2.0/System.Memory.dll",
         "lib/netstandard2.0/System.Memory.xml",
         "ref/netcoreapp2.1/_._",
+<<<<<<< HEAD
         "system.memory.4.5.5.nupkg.sha512",
+=======
+        "system.memory.4.5.4.nupkg.sha512",
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
         "system.memory.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -9194,6 +9233,7 @@
         "system.net.sockets.nuspec"
       ]
     },
+<<<<<<< HEAD
     "System.Numerics.Tensors/8.0.0": {
       "sha512": "fhODzTe9ON9IzmRfyVeA6L8yXOciMtpq1YufkRVBliggcVKZE+XDxqIn46+yF4PWR6wNPuDpXtPpuY86VcKxUA==",
       "type": "package",
@@ -9224,6 +9264,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
     "System.ObjectModel/4.3.0": {
       "sha512": "bdX+80eKv9bN6K4N+d77OankKHGn6CH711a6fcOpMQu2Fckp/Ft4L/kW9WznHpyR0NRAvJutzOMHNNlBGvxQzQ==",
       "type": "package",
@@ -11129,6 +11171,7 @@
         "system.threading.nuspec"
       ]
     },
+<<<<<<< HEAD
     "System.Threading.Channels/4.7.1": {
       "sha512": "6akRtHK/wab3246t4p5v3HQrtQk8LboOt5T4dtpNgsp3zvDeM4/Gx8V12t0h+c/W9/enUrilk8n6EQqdQorZAA==",
       "type": "package",
@@ -11153,6 +11196,8 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
     "System.Threading.Tasks/4.3.0": {
       "sha512": "LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
       "type": "package",
@@ -11479,30 +11524,36 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+<<<<<<< HEAD
       "CsvHelper >= 29.0.0",
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.35",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.35",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.35",
       "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.35",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.35",
+<<<<<<< HEAD
       "Microsoft.ML >= 3.0.1",
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.18"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SPM EASY GAME\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
       "projectName": "T3_Grupo1",
-      "projectPath": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
-      "packagesPath": "C:\\Users\\SPM EASY GAME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SPM EASY GAME\\RepT3\\T3_Grupo1\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\T3_Grupo1.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Downloads\\RepT3\\T3_Grupo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SPM EASY GAME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11534,10 +11585,13 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+<<<<<<< HEAD
           "CsvHelper": {
             "target": "Package",
             "version": "[29.0.0, )"
           },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.35, )"
@@ -11560,10 +11614,13 @@
             "target": "Package",
             "version": "[6.0.35, )"
           },
+<<<<<<< HEAD
           "Microsoft.ML": {
             "target": "Package",
             "version": "[3.0.1, )"
           },
+=======
+>>>>>>> 21c7719c13740f15312fdab8dd37d9c0b873b6d2
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.18, )"
