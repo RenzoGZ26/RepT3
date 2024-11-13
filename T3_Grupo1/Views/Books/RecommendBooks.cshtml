@@ -1,20 +1,26 @@
-﻿@{
+﻿@using Newtonsoft.Json.Linq
+
+@{
     ViewData["Title"] = "RecommendBooks";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Libros recomendados para: @ViewBag.BookTitle</h2>
+<h1>RecommendBooks</h1>
 
-@if (ViewBag.RecommendedBooks != null && ViewBag.RecommendedBooks.Count > 0)
+@if (ViewBag.Recommendations != null)
 {
-    <ul>
-        @foreach (var book in ViewBag.RecommendedBooks)
+    <div>
+        @foreach (var book in JArray.Parse(ViewBag.Recommendations["items"]))
         {
-            <li>@book</li>
+            <div class="book">
+                <h3>@book["volumeInfo"]["title"]</h3>
+                <p>Autor: @string.Join(", ", book["volumeInfo"]["authors"])</p>
+                <p>Descripción: @book["volumeInfo"]["description"]</p>
+            </div>
         }
-    </ul>
+    </div>
 }
 else
 {
-    <p>No se encontraron recomendaciones.</p>
+    <p>No se encontraron recomendaciones para el título ingresado.</p>
 }

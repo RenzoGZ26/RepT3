@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Recomendaciones de Libros con IA";
+}
+
+<h2>Recomendaciones usando IA para el libro : @ViewBag.BookTitle</h2>
+
+
+@if (ViewBag.Recommendations != null)
+{
+    <div>
+        @Html.Raw(ViewBag.Recommendations)
+    </div>
+}
+else
+{
+    <p>No se encontraron recomendaciones.</p>
+}

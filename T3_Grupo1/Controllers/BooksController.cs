@@ -1,37 +1,36 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using System.IO;
-using T3_Grupo1.Datos;
-using T3_Grupo1.Models;
+using System.Threading.Tasks;
+using T3_Grupo1.Services;
 
 namespace T3_Grupo1.Controllers
 {
     public class BooksController : Controller
     {
-        private readonly RecommendationEngine _recommendationEngine;
+        private readonly GeminiRecommendationService _geminiRecommendationService;
 
-        public BooksController()
+        public BooksController(GeminiRecommendationService geminiRecommendationService)
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "books_data.csv");
-            _recommendationEngine = new RecommendationEngine(filePath);  // Inicializamos el motor de recomendaciones
+            _geminiRecommendationService = geminiRecommendationService;
         }
 
-        public IActionResult RecommendBooks(string bookTitle)
+        public async Task<IActionResult> RecommendBooks(string bookTitle)
         {
             if (string.IsNullOrEmpty(bookTitle))
             {
-                ViewBag.Message = "Por favor, ingrese un título de libro.";
-                return View();
+                ViewBag.Error = "Por favor, ingresa un título de libro.";
+                return View("Index");
             }
 
-            var recommendation = _recommendationEngine.PredictBookRecommendation(bookTitle);  // Obtener recomendación basada en el título
-            ViewBag.RecommendedBook = recommendation.PredictedTitle;  // Mostrar la recomendación
+            // Obtener recomendaciones utilizando Gemini
+            var recommendations = await _geminiRecommendationService.GetBookRecommendationsAsync(bookTitle);
 
-            return View();
+            // Pasar las recomendaciones a la vista
+            ViewBag.Recommendations = recommendations;
+            ViewBag.BookTitle = bookTitle; // Para mostrar el título del libro en la vista
+
+            return View("Recommendations");
         }
     }
+
+
 }
-
-
-
-

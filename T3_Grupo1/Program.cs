@@ -1,7 +1,7 @@
 using T3_Grupo1.Datos;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using T3_Grupo1.Datos;
+using T3_Grupo1.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +14,11 @@ builder.Services.AddDefaultIdentity<IdentityUser>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient<GeminiRecommendationService>();  // Agregar GeminiRecommendationService al contenedor de DI
+
+builder.Services.AddHttpClient<BookRecommendationService>();
+
 
 var app = builder.Build();
 
